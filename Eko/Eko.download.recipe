@@ -12,7 +12,7 @@
         <string>Eko</string>
     </dict>
     <key>MinimumVersion</key>
-    <string></string>
+    <string>3.0.4</string>
     <key>Process</key>
     <array>
         <dict>
