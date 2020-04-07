@@ -5,7 +5,7 @@
 	<key>Description</key>
 	<string>Downloads the latest version of Eko and makes a pkg of it</string>
 	<key>Identifier</key>
-	<string>com.github.sambhaavna.pkg.eko</string>
+	<string>com.github.sambhaavna.pkg.Eko</string>
 	<key>Input</key>
 	<dict>
 		<key>NAME</key>
@@ -16,7 +16,7 @@
 	<key>MinimumVersion</key>
 	<string>0.2.0</string>
 	<key>ParentRecipe</key>
-	<string>com.github.sambhaavna.download.eko</string>
+	<string>com.github.sambhaavna.download.Eko</string>
 	<key>Process</key>
 	<array>
 		<dict>
